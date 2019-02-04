@@ -1,0 +1,22 @@
+{
+  "name": "tugas1-helloworld-sherryvine",
+  "version": "1.0.0",
+  "description": "tugas1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-SherryVine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-SherryVine/issues"
+  },
+  "homepage": "https://github.com/2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-SherryVine#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
